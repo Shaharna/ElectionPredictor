@@ -10,12 +10,6 @@ from sklearn.tree import DecisionTreeClassifier
 import re
 
 
-# usr = 'shahar.nahum@mail.huji.ac.il'
-# pwd = 'shahar1162016'
-
-usr = 'shahar_na@walla.com'
-pwd = 'shahar1162019'
-
 
 def load_data():
     """
